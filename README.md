@@ -51,6 +51,7 @@ To verify functional server redirection within the standard Debian web root:
 cd /var/www/html/
 sudo mv index.html apache-backup.html
 echo "<h1>Core Network Services Matrix | cyberdm22</h1>" | sudo tee index.html```
+
 ---
 
 ##⚖️ Legal Disclaimer & Dual-Use Technology Notice
